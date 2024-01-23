@@ -2,6 +2,7 @@
 
 ### Array / String
 - [88. merge sort](https://github.com/ChoSooBeen/ProgramSolve-python/tree/main/88-merge-sorted-array)
+- [27. 리스트 요소 제거](https://github.com/ChoSooBeen/ProgramSolve-python/tree/main/27-remove-element)
 
 ### Two Pointers
 - [125. 팰린드롬](https://github.com/ChoSooBeen/ProgramSolve-python/tree/main/125-valid-palindrome)
