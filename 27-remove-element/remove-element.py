@@ -3,7 +3,7 @@ class Solution:
         idx = 0
         while idx < len(nums) :
             if nums[idx] == val :
-                nums.remove(val)
+                del nums[idx]
             else :
                 idx += 1
         return len(nums)
