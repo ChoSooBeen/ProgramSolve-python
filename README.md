@@ -21,3 +21,6 @@
 
 ### Linked List
 - [2. 두 수 더하기](https://github.com/ChoSooBeen/ProgramSolve-python/tree/main/2-add-two-numbers)
+
+### Intervals
+- [228. 범위 요약](https://github.com/ChoSooBeen/ProgramSolve-python/tree/main/228-summary-ranges)
