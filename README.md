@@ -1,6 +1,6 @@
 # LeetCode - Python 문제 풀이
 
-### Array / String
+### Array/String
 - [88. merge sort](https://github.com/ChoSooBeen/ProgramSolve-python/tree/main/88-merge-sorted-array)
 - [27. 리스트 요소 제거](https://github.com/ChoSooBeen/ProgramSolve-python/tree/main/27-remove-element)
 
@@ -24,3 +24,6 @@
 
 ### Intervals
 - [228. 범위 요약](https://github.com/ChoSooBeen/ProgramSolve-python/tree/main/228-summary-ranges)
+
+### Graph
+- [200. 섬의 개수 - BFS](https://github.com/ChoSooBeen/ProgramSolve-python/tree/main/200-number-of-islands)
