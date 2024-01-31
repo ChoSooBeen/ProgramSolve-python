@@ -27,6 +27,7 @@
 
 ### Hashmap
 - [383. m 문자열로 s 문자열 만들기](https://github.com/ChoSooBeen/ProgramSolve-python/tree/main/383-ransom-note)
+- [205. 문자열 대치 가능 여부](https://github.com/ChoSooBeen/ProgramSolve-python/tree/main/205-isomorphic-strings)
 
 ### Stack
 - [20. 괄호](https://github.com/ChoSooBeen/ProgramSolve-python/tree/main/20-valid-parentheses)
