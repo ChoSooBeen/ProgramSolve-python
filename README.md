@@ -10,6 +10,7 @@
 - [Linked List](#linked-list)
 - [Intervals](#intervals)
 - [Graph](#graph)
+- [Binary Search](#binary-search)
 
 ---
 ### Array String
@@ -40,3 +41,6 @@
 
 ### Graph
 - [200. 섬의 개수 - BFS](https://github.com/ChoSooBeen/ProgramSolve-python/tree/main/200-number-of-islands)
+
+### Binary Search
+- [74. 2차원 이분 탐색](https://github.com/ChoSooBeen/ProgramSolve-python/tree/main/74-search-a-2d-matrix)
