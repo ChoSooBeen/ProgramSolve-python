@@ -19,6 +19,7 @@
 - [88. merge sort](https://github.com/ChoSooBeen/ProgramSolve-python/tree/main/88-merge-sorted-array)
 - [27. 리스트 요소 제거](https://github.com/ChoSooBeen/ProgramSolve-python/tree/main/27-remove-element)
 - [189. 리스트 슬라이스](https://github.com/ChoSooBeen/ProgramSolve-python/tree/main/189-rotate-array)
+- [274. h-index](https://github.com/ChoSooBeen/ProgramSolve-python/tree/main/274-h-index)
 
 ## Two Pointers
 - [125. 팰린드롬](https://github.com/ChoSooBeen/ProgramSolve-python/tree/main/125-valid-palindrome)
