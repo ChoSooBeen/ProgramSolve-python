@@ -13,6 +13,7 @@
 - [Intervals](#intervals)
 - [Graph](#graph)
 - [Binary Search](#binary-search)
+- [Greedy](#greedy)
 
 
 ## Array
@@ -49,3 +50,6 @@
 
 ## Binary Search
 - [74. 2차원 이분 탐색](https://github.com/ChoSooBeen/ProgramSolve-python/tree/main/74-search-a-2d-matrix)
+
+## Greedy
+- [55. 점프 게임](https://github.com/ChoSooBeen/ProgramSolve-python/tree/main/55-jump-game)
