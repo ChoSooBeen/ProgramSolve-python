@@ -10,5 +10,3 @@ class Solution:
             
             if cur <= i :
                 return False
-        
-        # return True
