@@ -5,8 +5,10 @@ class Solution:
         while start < end :
             tmp = numbers[start] + numbers[end]
             if tmp < target :
-                start += 1
+                while numbers[start] + numbers[end] < target : 
+                    start += 1
             elif tmp > target :
-                end -= 1
+                while numbers[start] + numbers[end] > target : 
+                    end -= 1
             else :
                 return [start+1, end+1]
