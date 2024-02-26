@@ -24,6 +24,7 @@
 
 ## Two Pointers
 - [125. 팰린드롬](https://github.com/ChoSooBeen/ProgramSolve-python/tree/main/125-valid-palindrome)
+- [167. 두 수 더하기](https://github.com/ChoSooBeen/ProgramSolve-python/tree/main/167-two-sum-ii-input-array-is-sorted)
 
 ## Sliding Window
 - [209. 부분합 최소 개수](https://github.com/ChoSooBeen/ProgramSolve-python/tree/main/209-minimum-size-subarray-sum)
