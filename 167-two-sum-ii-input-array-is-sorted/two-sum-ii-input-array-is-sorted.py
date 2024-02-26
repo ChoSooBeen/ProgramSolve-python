@@ -3,12 +3,9 @@ class Solution:
         start = 0
         end = len(numbers)-1
         while start < end :
-            tmp = numbers[start] + numbers[end]
-            if tmp < target :
-                while numbers[start] + numbers[end] < target : 
-                    start += 1
-            elif tmp > target :
-                while numbers[start] + numbers[end] > target : 
-                    end -= 1
-            else :
+            while numbers[start] + numbers[end] < target : 
+                start += 1
+            while numbers[start] + numbers[end] > target : 
+                end -= 1
+            if numbers[start] + numbers[end] == target :
                 return [start+1, end+1]
